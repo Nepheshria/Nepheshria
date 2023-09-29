@@ -14,7 +14,7 @@
    id="svg51"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="Fiche de personnage.svg"
-   inkscape:export-filename="D:\jeux de role\Nepheshria\Character-sheets-part-1.png"
+   inkscape:export-filename="/home/villerot/Documents/GitHub/VillerotJustin/Nepheshria/Fiche perso et monstre/Character-sheets-V2.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -33,11 +33,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54358323"
-     inkscape:cx="-255.61287"
-     inkscape:cy="692.52297"
+     inkscape:zoom="0.76874278"
+     inkscape:cx="412.39766"
+     inkscape:cy="347.29968"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1046"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1081,7 +1081,7 @@
            x="124.18436"
            y="92.623833"
            style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
-           id="tspan1058-3-5-5">Coins</tspan></text>
+           id="tspan1058-3-5-5">Effect</tspan></text>
     </g>
     <rect
        style="fill:#000000;stroke-width:0.0432599"
